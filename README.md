@@ -69,8 +69,7 @@ cd backend
 
 # ▶️ Usage
 
-### ⭐ Open your browser at http://localhost:5173
- to view the frontend.
+### ⭐ Open your browser at http://localhost:5173 to view the frontend.
 
 ### ⭐ Browse food items, add them to your cart, and place orders using the React.js interface.
 
