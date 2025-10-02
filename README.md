@@ -32,25 +32,26 @@ Backend: Spring Boot (Java)
 Database: MySQL
 Others: REST APIs, Axios, JavaScript
 
-#
-'''
-📂 Project Structure
+## 📂 Project Structure
+
+```
+Project/
 ├── frontend/ # React.js + Tailwind CSS
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/ # UI components like Homepage, Cart, Navbar etc
-│   │   ├── Contexts/   # State management for cart,Loginuser, etc.
-│   │   └── App.js       # Main React app
+│ ├── src/
+│ │ ├── assets/
+│ │ ├── components/ # UI components like Homepage, Cart, Navbar etc
+│ │ ├── Contexts/ # State management for cart, Loginuser, etc.
+│ │ └── App.js # Main React app
 ├── backend/ # Spring Boot backend
-│   ├── src/main/java/ # Controllers, Services, Repositories
-│   │   ├── controllers/ 
-│   │   ├── services/
-│   │   └── repositories/
-│   └── application.properties
-├── database/ # MySQL scripts or schema 
+│ ├── src/main/java/ # Controllers, Services, Repositories
+│ │ ├── controllers/
+│ │ ├── services/
+│ │ └── repositories/
+│ └── application.properties
+├── database/ # MySQL scripts or schema
 ├── README.md # Project documentation
-└── pom.xml   # Maven dependencies
-'''
+└── pom.xml # Maven dependencies
+```
 
 # 🚀 Installation
 # Clone the repo
