@@ -1,4 +1,4 @@
-🍔 Food E-Commerce Web Application
+🍔 Food E-Commerce Web Application 
 
 A full-stack food e-commerce platform where users can browse food items, add them to the cart, and manage orders, built with modern frontend and backend technologies.
 
