@@ -4,7 +4,7 @@ A full-stack food e-commerce platform where users can browse food items, add the
 
 This project is my first full-stack application combining React.js, Tailwind CSS, Spring Boot, and MySQL with a focus on food delivery and grocery shopping.
 
-✨ Features
+✨ Features		
 
 🛒 Food Browsing: View food items with details like name, price, description, category (e.g., snacks, fruits, beverages), and images.
 🛍️ Cart Management: Add, remove, and update food items in the shopping cart.
